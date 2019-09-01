@@ -1,0 +1,53 @@
+{" ": "state", "state": "id", "id": "population", "population": "engineers", "engineers": "hurricanes", "hurricanes": null}
+{" ": "Alabama", "state": "1", "id": "4863300", "population": "0.003421545", "engineers": "22", "hurricanes": null}
+{" ": "Alaska", "state": "2", "id": "741894", "population": "0.001590524", "engineers": "0", "hurricanes": null}
+{" ": "Arizona", "state": "4", "id": "6931071", "population": "0.004774154", "engineers": "0", "hurricanes": null}
+{" ": "Arkansas", "state": "5", "id": "2988248", "population": "0.002439557", "engineers": "0", "hurricanes": null}
+{" ": "California", "state": "6", "id": "39250017", "population": "0.007125857", "engineers": "0", "hurricanes": null}
+{" ": "Colorado", "state": "8", "id": "5540545", "population": "0.008087652", "engineers": "0", "hurricanes": null}
+{" ": "Connecticut", "state": "9", "id": "3576452", "population": "0.005896906", "engineers": "10", "hurricanes": null}
+{" ": "Delaware", "state": "10", "id": "952065", "population": "0.004989155", "engineers": "2", "hurricanes": null}
+{" ": "District of Columbia", "state": "11", "id": "681170", "population": "0.011759179", "engineers": "0", "hurricanes": null}
+{" ": "Florida", "state": "12", "id": "20612439", "population": "0.003299949", "engineers": "110", "hurricanes": null}
+{" ": "Georgia", "state": "13", "id": "10310371", "population": "0.004939686", "engineers": "20", "hurricanes": null}
+{" ": "Hawaii", "state": "15", "id": "1428557", "population": "0.001624016", "engineers": "0", "hurricanes": null}
+{" ": "Idaho", "state": "16", "id": "1683140", "population": "0.002970638", "engineers": "0", "hurricanes": null}
+{" ": "Illinois", "state": "17", "id": "12801539", "population": "0.004478368", "engineers": "0", "hurricanes": null}
+{" ": "Indiana", "state": "18", "id": "6633053", "population": "0.002724236", "engineers": "0", "hurricanes": null}
+{" ": "Iowa", "state": "19", "id": "3134693", "population": "0.003716472", "engineers": "0", "hurricanes": null}
+{" ": "Kansas", "state": "20", "id": "2907289", "population": "0.003811111", "engineers": "0", "hurricanes": null}
+{" ": "Kentucky", "state": "21", "id": "4436974", "population": "0.002089262", "engineers": "0", "hurricanes": null}
+{" ": "Louisiana", "state": "22", "id": "4681666", "population": "0.001176931", "engineers": "49", "hurricanes": null}
+{" ": "Maine", "state": "23", "id": "1331479", "population": "0.002290686", "engineers": "6", "hurricanes": null}
+{" ": "Maryland", "state": "24", "id": "6016447", "population": "0.006291088", "engineers": "2", "hurricanes": null}
+{" ": "Massachusetts", "state": "25", "id": "6811779", "population": "0.010230808", "engineers": "10", "hurricanes": null}
+{" ": "Michigan", "state": "26", "id": "9928300", "population": "0.003876797", "engineers": "0", "hurricanes": null}
+{" ": "Minnesota", "state": "27", "id": "5519952", "population": "0.006193894", "engineers": "0", "hurricanes": null}
+{" ": "Mississippi", "state": "28", "id": "2988726", "population": "0.000933508", "engineers": "15", "hurricanes": null}
+{" ": "Missouri", "state": "29", "id": "6093000", "population": "0.004413261", "engineers": "0", "hurricanes": null}
+{" ": "Montana", "state": "30", "id": "1042520", "population": "0.002139048", "engineers": "0", "hurricanes": null}
+{" ": "Nebraska", "state": "31", "id": "1907116", "population": "0.005621053", "engineers": "0", "hurricanes": null}
+{" ": "Nevada", "state": "32", "id": "2940058", "population": "0.002037375", "engineers": "0", "hurricanes": null}
+{" ": "New Hampshire", "state": "33", "id": "1334795", "population": "0.00633056", "engineers": "2", "hurricanes": null}
+{" ": "New Jersey", "state": "34", "id": "8944469", "population": "0.007724327", "engineers": "2", "hurricanes": null}
+{" ": "New Mexico", "state": "35", "id": "2081015", "population": "0.001883696", "engineers": "0", "hurricanes": null}
+{" ": "New York", "state": "36", "id": "19745289", "population": "0.004941432", "engineers": "12", "hurricanes": null}
+{" ": "North Carolina", "state": "37", "id": "10146788", "population": "0.004226953", "engineers": "46", "hurricanes": null}
+{" ": "North Dakota", "state": "38", "id": "757952", "population": "0.003403909", "engineers": "0", "hurricanes": null}
+{" ": "Ohio", "state": "39", "id": "11614373", "population": "0.004095787", "engineers": "0", "hurricanes": null}
+{" ": "Oklahoma", "state": "40", "id": "3923561", "population": "0.002286188", "engineers": "0", "hurricanes": null}
+{" ": "Oregon", "state": "41", "id": "4093465", "population": "0.005457479", "engineers": "0", "hurricanes": null}
+{" ": "Pennsylvania", "state": "42", "id": "12784227", "population": "0.004237253", "engineers": "1", "hurricanes": null}
+{" ": "Rhode Island", "state": "44", "id": "1056426", "population": "0.004581485", "engineers": "9", "hurricanes": null}
+{" ": "South Carolina", "state": "45", "id": "4961119", "population": "0.002084207", "engineers": "31", "hurricanes": null}
+{" ": "South Dakota", "state": "46", "id": "865454", "population": "0.003085086", "engineers": "0", "hurricanes": null}
+{" ": "Tennessee", "state": "47", "id": "6651194", "population": "0.002375513", "engineers": "0", "hurricanes": null}
+{" ": "Texas", "state": "48", "id": "27862596", "population": "0.004320129", "engineers": "59", "hurricanes": null}
+{" ": "Utah", "state": "49", "id": "3051217", "population": "0.006440053", "engineers": "0", "hurricanes": null}
+{" ": "Vermont", "state": "50", "id": "624594", "population": "0.004643016", "engineers": "0", "hurricanes": null}
+{" ": "Virginia", "state": "51", "id": "8411808", "population": "0.008595061", "engineers": "12", "hurricanes": null}
+{" ": "Washington", "state": "53", "id": "7288000", "population": "0.010710757", "engineers": "0", "hurricanes": null}
+{" ": "West Virginia", "state": "54", "id": "1831102", "population": "0.00128338", "engineers": "0", "hurricanes": null}
+{" ": "Wisconsin", "state": "55", "id": "5778708", "population": "0.004821147", "engineers": "0", "hurricanes": null}
+{" ": "Wyoming", "state": "56", "id": "585501", "population": "0.001007684", "engineers": "0", "hurricanes": null}
+{" ": "Puerto Rico", "state": "72", "id": "3411307", "population": "0.000773897", "engineers": "0", "hurricanes": null}
